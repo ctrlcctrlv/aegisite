@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ctrlcctrlv.github.io/aegisite/sitemap.xml
+Sitemap: https://copypaste.wtf/aegisite/sitemap.xml
