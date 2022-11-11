@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    id="svg2383"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="icon-mk2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo-aegisub.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-xdpi="720"
    inkscape:export-ydpi="720"
    version="1.0"
-   style="display:inline">
+   style="display:inline"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2385">
     <linearGradient
@@ -223,7 +224,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter5144">
+       id="filter5144"
+       x="-0.016645234"
+       y="-0.075437091"
+       width="1.0332905"
+       height="1.1508742">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.35577373"
@@ -251,7 +256,11 @@
        gradientTransform="matrix(1,0,0,-1,-2.0570379,63.326784)" />
     <filter
        inkscape:collect="always"
-       id="filter5360">
+       id="filter5360"
+       x="-0.016685034"
+       y="-0.079809593"
+       width="1.0333701"
+       height="1.1596192">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.35930581"
@@ -266,8 +275,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.7781746"
-     inkscape:cx="33.615586"
-     inkscape:cy="32.496968"
+     inkscape:cx="33.619713"
+     inkscape:cy="32.526912"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:document-units="px"
@@ -275,10 +284,12 @@
      inkscape:snap-global="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="970"
-     inkscape:window-x="1272"
-     inkscape:window-y="-8">
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:pagecheckerboard="0"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4849" />
